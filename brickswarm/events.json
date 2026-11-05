@@ -1,0 +1,10 @@
+{
+  "v": 1,
+  "events": [
+    { "id": "harvest26", "name": "Harvest", "start": "2026-11-09", "end": "2026-11-30", "cols": ["#ff8a1f", "#ffc23d"] },
+    { "id": "winter26", "name": "Winter", "start": "2026-12-01", "end": "2027-01-05", "cols": ["#bfefff", "#4da6ff"] }
+  ],
+  "sales": [
+    { "id": "bf26", "name": "Black Friday", "start": "2026-11-27", "end": "2026-11-30", "bonus": 0.5, "cols": ["#ffd23d", "#ff3d6e"] }
+  ]
+}
